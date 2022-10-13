@@ -9,4 +9,5 @@ Website preview:
 ![Screenshot (10)](https://github.com/AnirudhGupta97/Management-System-for-Factory-Workshop-Master/blob/main/Screenshot%20(7).png)
 
 ![Screenshot (14)](https://github.com/AnirudhGupta97/Management-System-for-Factory-Workshop-Master/blob/main/Screenshot%20(2).png)
+![Screenshot (14)](https://github.com/AnirudhGupta97/Management-System-for-Factory-Workshop-Master/blob/main/Screenshot%20(2).png)
 
